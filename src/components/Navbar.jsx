@@ -6,7 +6,7 @@ export default function Navbar() {
             <a className="font-bold tracking-tight " href="">
                 ContemptStudios
             </a>
-            <nav className="space-x-4">
+            <nav className="space-x-4 font-medium tracking-tight">
                 <Link to="/">Home</Link>
                 <Link to="about">About</Link>
             </nav>

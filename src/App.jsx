@@ -14,7 +14,7 @@ export default function App() {
     setTimeout(() => {
       setIsLoading(false);
       window.scrollTo(0,0)
-    }, [1000]);
+    }, [1100]);
   });
 
 
